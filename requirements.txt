@@ -1,0 +1,9 @@
+mne
+moabb
+scikit-learn
+numpy
+scipy
+matplotlib
+PyQt5
+openpyxl
+websocket-client
